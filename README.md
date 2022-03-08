@@ -1,2 +1,5 @@
 # Repositório do Desafio de Projeto sobre Git/Github da DIO
-Desafio de projetos sobre Git/Github da Digital innovation, curso web full stack
+Repositório criado para o Desafio de Projeto
+
+##Links úteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
