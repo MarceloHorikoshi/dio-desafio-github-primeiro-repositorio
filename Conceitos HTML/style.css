@@ -1,0 +1,75 @@
+body{
+    background: rgb(224, 223, 223);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.photo{
+    border: 1px solid  red;
+    border-radius: 50px;
+}
+
+#title, .subtitle, .post_title{
+    color: rgba(97, 94, 94, 0.356);    
+}
+#title{
+    font-size: 30px;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: line-through;
+    color: blueviolet;
+}
+
+.subtitle{
+    text-transform: lowercase;
+    text-decoration: overline;
+}
+
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.post{
+    background: white;
+    padding: 15px;
+    border: 3px solid rgb(71, 74, 78);
+    margin-bottom: 15px;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    text-transform: capitalize;
+}
+
+.post_image{
+    margin-bottom: 15px;
+}
+
+ul{
+    /*list-style-type: square;
+    list-style-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elo7.com.br%2Fmatriz-face-joinha-agulha-feliz-matrizes%2Fdp%2F11F89FD&psig=AOvVaw1EYiAJTQZ9gabjhc7BemG3&ust=1647319009943000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIjd0dXjxPYCFQAAAAAdAAAAABAD");
+    */
+}
+
+.contact_list{
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contact_list li a {
+    text-decoration: none;
+    color: blue;
+}
