@@ -13,4 +13,15 @@ body{
 
 .margin{
     padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: aquamarine;
+    color: rebeccapurple;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
